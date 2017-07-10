@@ -8,14 +8,14 @@ This was my grad project for my BE CS. Have implemented a dynamic traffic signal
 
 ### How do I get set up? ###
 
-Get a arduino MEGA 2560, 12 ultrasonic sensors, LEDs, and servo motors if you want to set up the system with spikes as well.
+Get a Arduino MEGA 2560 or any that has similar pin configuration, 12 ultrasonic sensors, LEDs, and servo motors if you want to set up the system with spikes as well.
 
-The pin config is stated into the code and can be referred for cennection.
+The pin config is stated into the code and can be referred for connection.
 
 * How to run tests
-If you go through the library there are certain test modules designed to test finctioning of all the connected devices. 
+If you go through the library there are certain test modules designed to test functioning of all the connected devices.
 * Deployment instructions
-To depoly connect the Arduino to Mac/PC and upload the code using the Arduino IDE, available on Arduino site for free.
+To deploy connect the Arduino to Mac/PC and upload the code using the Arduino IDE, available on Arduino site for free.
 
 ### Who do I talk to? ###
 
